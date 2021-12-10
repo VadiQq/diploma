@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDMF.Functions.Modeling", "PDMF.Functions.Modeling\PDMF.Functions.Modeling.csproj", "{EEE76A43-5CA7-40D3-8B31-2408626F7697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDMF.GMDHBatchProgram", "PDMF.GMDHBatchProgram\PDMF.GMDHBatchProgram.csproj", "{F5C420F8-2AD3-427D-B085-EEEB889DFDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE76A43-5CA7-40D3-8B31-2408626F7697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE76A43-5CA7-40D3-8B31-2408626F7697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE76A43-5CA7-40D3-8B31-2408626F7697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE76A43-5CA7-40D3-8B31-2408626F7697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C420F8-2AD3-427D-B085-EEEB889DFDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C420F8-2AD3-427D-B085-EEEB889DFDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C420F8-2AD3-427D-B085-EEEB889DFDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C420F8-2AD3-427D-B085-EEEB889DFDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
